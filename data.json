@@ -1,0 +1,14 @@
+{
+    "customers": {
+        "test": {
+            "password": "scrypt:32768:8:1$jG4JfKHc0647ZoUx$d2b367421150e4b7ec66b5368f9b595d48abb766235a109bfe7d3fec1dccf8c824e014ddbbd920d38e028789121b69ffa58dd12b2b7e683b0e9f77e68fd54cd7",
+            "pending_amount": 2000.0,
+            "payments": [
+                {
+                    "amount": 2000.0,
+                    "date": "2025-04-26"
+                }
+            ]
+        }
+    }
+}

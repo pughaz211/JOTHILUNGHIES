@@ -1,0 +1,3 @@
+name: flask-app
+runtime: python3.9
+entrypoint: app.py
